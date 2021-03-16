@@ -1,4 +1,4 @@
-name: "."
+name: "Younghoon Jeong"
 title: "Younghoon Jeong"
 description: |
   Younghoon Jeong
@@ -7,6 +7,6 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Portfolio"
       href: about.html
 output: distill::distill_article

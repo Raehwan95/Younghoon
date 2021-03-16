@@ -6,13 +6,20 @@ links:
     url: "https://github.com/Raehwan95"
   - label: Email
     url: "mailto:v_9150@naver.com"
-description: |
-  Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
 output:
   postcards::trestles
 ---
 
+# Introduce
+Hello, my name is Younghoon Jeong. I am living in Seoul, Korea. I majored in mathematics education in the undergraduate department and I am majoring in actuarial science and I am in a master's course.
+
+# Education
+Jamsil High school / 2011~2013
+\
+Dongguk University / 2014~2019
+\
+Sungkyunkwan University  / 2020~
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
