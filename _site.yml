@@ -1,7 +1,7 @@
 name: "."
-title: "iyo-distill"
+title: "Younghoon Jeong"
 description: |
-  iyo-distill
+  Younghoon Jeong
 output_dir: "docs"
 navbar:
   right:

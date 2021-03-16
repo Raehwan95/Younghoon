@@ -1,8 +1,16 @@
 ---
 title: "Younghoon Jeong"
+image: "jyh.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/Raehwan95"
+  - label: Email
+    url: "mailto:v_9150@naver.com"
 description: |
   Welcome to the website. I hope you enjoy it!
 site: distill::distill_website
+output:
+  postcards::trestles
 ---
 
 ```{r setup, include=FALSE}
